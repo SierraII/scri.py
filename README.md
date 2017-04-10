@@ -14,4 +14,8 @@ The triangles (unless speficied by an ignore color), will get an outline color d
     <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/Steve Jobs.png?raw=true" alt=""/>
     <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/Jimi Hendrix.png?raw=true" alt=""/>
     <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/Elon Musk.png?raw=true" alt=""/>
+    <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/Elon Musk 2.png?raw=true" alt=""/>
+    <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/Biggie Small.png?raw=true" alt=""/>
+    <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/American Moonwalk.png?raw=true" alt=""/>
+    <img width = "300" src="https://github.com/SierraII/scri.py/blob/master/examples/Eiffel Tower.png?raw=true" alt=""/>
 </p>
